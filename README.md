@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @HemoGaming
-- Iam dev
+- 👋 Hi
+- Iam developer
